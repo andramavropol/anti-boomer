@@ -11,7 +11,7 @@ html {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 4rem;
   color: #e2dbdb;
 }
 
@@ -44,4 +44,9 @@ hr {
 
 .btn-xl {
   padding: 1rem 2rem;
+}
+
+.d-flex {
+  justify-content: center;
+  align-items: flex-start;
 }
